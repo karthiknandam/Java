@@ -1,0 +1,31 @@
+0 -> End ;
+1 -> add Items by the help of ",";
+2 -> Remove Items ;
+Enter the value : 1
+ADD items to basket
+Banana,Apples,Jam
+[Apples, Banana, Jam]
+
+
+0 -> End ;
+1 -> add Items by the help of ",";
+2 -> Remove Items ;
+Enter the value : 1
+ADD items to basket
+Banana,Mangos,Ice Cream
+[Apples, Banana, Ice Cream, Jam, Mangos]
+
+
+0 -> End ;
+1 -> add Items by the help of ",";
+2 -> Remove Items ;
+Enter the value : 2
+Remove items from basket
+Ice Cream
+[Apples, Banana, Jam, Mangos]
+
+
+0 -> End ;
+1 -> add Items by the help of ",";
+2 -> Remove Items ;
+Enter the value : 0
